@@ -11,4 +11,4 @@ Computer Organization - Spring 2024
 ## Report
 
 This file contains a RISC-V (RV32IM) assembly code for integer square root. In this code the number 25 have been taken as an example of an integer. The code findes the square root of the integer by try and error, in which it takes a number perhaps 1, and multiply it by itself, if the result equals the given number (in this example 25), then we have solved the problem, if not, it adds 1 to the testing number and tries again until it reaches the correct answer. 
-waveform will be attached
+waveform will be attached  ![Uploading Screenshot 2024-05-24 180138.png…]()
